@@ -2,7 +2,8 @@
   "queries": [
     {
       "date": "2023-12-01",
-      "timeslot_seconds": 11
+      "timeslot_seconds": 11,
+
     },
     {
       "date": "2023-06-12",

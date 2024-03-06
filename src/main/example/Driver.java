@@ -24,6 +24,10 @@ public class Driver {
         }
     }
     public static void main(String[] args) {
+        /**
+         * 10 +/-4 seconds
+         *               3 6 = 3+6 = 9
+         */
         ObjectMapper mapper = new ObjectMapper();
         mapper.registerModule(new JavaTimeModule());
 //        File jsonFile = new File("/resources/video_advertisements.json");
